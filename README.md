@@ -6,7 +6,7 @@
 
 <h3> Video Tutorial Below </h2>
 
-[Watch the Video Tutorial](https://www.youtube.com/watch?v=bCgUFOEAMxA&ab_channel=BlakeMcdonald)
+[Watch the Video Tutorial](https://youtu.be/CwBXpmoKSYw)
 
 <hr>
 
